@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ServiceMtk_P1_20190140015">
-      <HintPath>..\..\FirstWCFService_015\bin\Debug\ServiceMtk_P1_20190140015.dll</HintPath>
+    <Reference Include="ServiceMtk-P1-20190140015">
+      <HintPath>..\..\ServiceMtk-P1-20190140015\ServiceMtk-P1-20190140015\bin\Debug\ServiceMtk-P1-20190140015.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
